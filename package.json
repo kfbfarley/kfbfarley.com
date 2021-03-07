@@ -1,0 +1,25 @@
+{
+  "name": "kfbfarley.com",
+  "version": "1.0.0",
+  "description": "My portfolio built in NextJS and hosted by Vercel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfbfarley/kfbfarley.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfbfarley/kfbfarley.com/issues"
+  },
+  "homepage": "https://github.com/kfbfarley/kfbfarley.com#readme",
+  "dependencies": {
+    "next": "^10.0.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
